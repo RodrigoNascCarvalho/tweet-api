@@ -16,6 +16,8 @@ module.exports = {
 ```
 
 To run it, just type:
+
 ```
+npm install
 node index.js
 ```
